@@ -1,16 +1,17 @@
 (Member)
 email: phansovanna18@kit.edu.kh
-firstname: sovanna
-lastname: phan
+firstname: Sovanna
+lastname: Phan
+
 
 email: taingtheanchhing18@kit.edu.kh
-firstname: Taing
-lastname: Theanchhing
+firstname: Theanchhing
+lastname: Taing
 
 email: yisisovattra18@kit.edu.kh
-firstname: Yi
-lastname: Sisovattra
+firstname: Sisovattra
+lastname: Yi
 
 email: khengchhaya18@kit.edu.kh
-firstname: Kheng
-lastname: Chhaya
+firstname: Chhaya
+lastname: Kheng
