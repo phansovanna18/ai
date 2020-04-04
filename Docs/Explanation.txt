@@ -1,0 +1,12 @@
+In this chatbot project, I've created it using Python codes and link it with Dialogflow.
+In the code, there'll be comments noting the funcitonality of each function.
+*Note: the "credentials' module contains the email and password of the Facebook account that is needed to be accessed
+
++Modules used in this project:
+	- fbchat
+	- apiai
+	- codecs (installed with Python already)
+	- json (installed with Python already)
+	- ChatterBot
+	- Flask
+	- Wikipedia

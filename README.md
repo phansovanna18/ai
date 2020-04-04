@@ -1,0 +1,18 @@
+# KIT JO WITH ME
+***
+  Jo WithME helps the Facebook User to automatically reply the messages when they have no spare time to respond.
+  ***
+  The chatbot that we're currently developing focuses on the concept of a personal message.
+  ***
+  Ever since the start of development, our main focus of building the chatbot is to provide the user with the enrich experience of
+having a conversation more human-like. We has shaped the chatbot to be what the sender wants when talking to a real person.
+  ***
+  While the bot is currently in a developing phase, the data and conversation we've built are in the category of personal comfort. In other words,
+you can chat to the bot if you feel like you need somebody to talk to. Thanks to the smart technology of Dialogflow that's linked to
+our chatbot, we can have a conversation with bot that feels more realistic.
+  ***
+  In the near future, if our team has a vision of building a real virtual assistance if we can succeed on this project or we can also
+continue to built chatbot that can work in real business, like in hotel reservation, restaurant booking or school information center.
+
+
+### To use the chatbot, please put your email and password of your facebook account as the parameters in the main function of our Python code.

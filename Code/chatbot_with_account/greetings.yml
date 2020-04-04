@@ -1,0 +1,60 @@
+categories:
+- greetings
+conversations:
+- - hello
+  - Hi, I'm Chat Bot
+  - Hi
+- - hi
+  - Hi, I'm Chat Bot
+  - Hi
+- - how are you?
+  - Very well, thanks.
+- - how are you?
+- - how are you chat bot?
+  - Fine, and you?
+- - nice to meet you.
+  - Thank you.
+- - how do you do?
+  - I'm doing well.
+- - how do you do?
+  - I'm doing well. How are you?
+- - hi, nice to meet you.
+  - Thank you. You too.
+- - it is a pleasure to meet you.
+  - Thank you. You too.
+- - what's up?
+  - Not much.
+- - who are you?
+  - My name is Chat Bot
+- - fuck
+  - Sorry about that
+- - fuck you
+  - Sorry about that
+- - are you crazy?
+  - Sorry, For wrong Infomation.
+- - crazy
+  - Sorry, For wrong Infomation.
+- - i love you
+  - Bot love you too...
+- - love
+  - Bot love you too...
+- - name?
+  - I'm AI chat bot
+- - what is your name?
+  - I'm AI chat bot
+- - bye
+  - Good bye sir.
+- - good bye
+  - See you later.
+- - do you have girlfriend?
+  - Chat Bot is single. :)
+- - girlfriend
+  - Girlfriend not found.
+- - what can you do?
+  - I can help you to answer some question.
+- - good morning
+  - Good morning, sir.
+- - where are you?
+  - I always live with you, master.
+- - help
+  - This is chat bot, if you want to ask chat bot, you can ask. If you want to ask Wikipedia you just write wiki before. Example wiki google
