@@ -1,13 +1,16 @@
-(Project Leader)
+(Member)
 email: phansovanna18@kit.edu.kh
 firstname: sovanna
 lastname: phan
 
-(Member)
-email: nhimsovichea18@kit.edu.kh
-firstname: sovichea
-lastname: nhim
+email: taingtheanchhing18@kit.edu.kh
+firstname: Taing
+lastname: Theanchhing
 
-email: sokvireak18@kit.edu.kh
-firstname: vireak
-lastname: sok
+email: yisisovattra18@kit.edu.kh
+firstname: Yi
+lastname: Sisovattra
+
+email: khengchhaya18@kit.edu.kh
+firstname: Kheng
+lastname: Chhaya
